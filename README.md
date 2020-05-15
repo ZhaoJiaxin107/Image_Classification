@@ -26,6 +26,30 @@ It contains 5 competitions: classification/detection/segmentation/action classif
 #### imageNet
 140,000,000 pictures and 20,000 classifications, millions of comments
 
+What's more, we could also build dataset by ourselves.
+
+
 #### Microsoft coco
 328,000 pictures and 2,500,000 labels
 Richer foreground, background and finer annotation
+
+#### 1.Camera Collection
+#### 2.Data crowdsourcing（数据众包）
+
+Both of two approaches cost a lot.
+
+#### 3.Reptile
+Picture crawler & Video crawler
+
+##### Image Downloader(Picture crawler)
+https://github.com/sczhengyabin/Image-Downloader
+search the keyword like "嘟嘴"
+
+##### Annie(Video crawler)
+https://github.com/iawia002.annie
+annie [optional parameters] https://...(video url)
+
+
+
+
+
