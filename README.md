@@ -26,13 +26,11 @@ It contains 5 competitions: classification/detection/segmentation/action classif
 #### imageNet
 140,000,000 pictures and 20,000 classifications, millions of comments
 
-What's more, we could also build dataset by ourselves.
-
-
 #### Microsoft coco
 328,000 pictures and 2,500,000 labels
 Richer foreground, background and finer annotation
 
+What's more, we could also build dataset by ourselves.
 #### 1.Camera Collection
 #### 2.Data crowdsourcing（数据众包）
 
